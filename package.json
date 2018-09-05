@@ -8,7 +8,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git://github.com/oslugr/repo-ejemplo.git"
+      "url": "git://github.com/JJ/repo-ejemplo.git"
    },
    "keywords": [
       "test",
@@ -20,16 +20,16 @@
    "author": "JJ Merelo",
    "license": "AGPL-1.0",
    "bugs": {
-      "url": "https://github.com/oslugr/repo-ejemplo/issues"
+      "url": "https://github.com/JJ/repo-ejemplo/issues"
    },
-   "homepage": "https://github.com/oslugr/repo-ejemplo",
+   "homepage": "https://github.com/JJ/repo-ejemplo",
    "dependencies": {
-      "express": "^3.4.8",
-      "glob": "^3.2.11",
-      "markdown": "^0.5.0"
+       "markdown": "^0.5.0",
+       "express": "^4.16.3",
+       "glob": "^7.1.3"
    },
    "devDependencies": {
-      "mocha": "~1.17.0",
+      "mocha": "^5.2.0",
       "xunit-file": "~ 0.0.5"
    },
    "engines": {
